@@ -1,5 +1,6 @@
 # list-of-property-list-key-references
 List of property list key references for Apple developers 
+Full list available on https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html
 
 ## Apple Music
 ```
